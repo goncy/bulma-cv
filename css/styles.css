@@ -1,0 +1,41 @@
+/* Normalize */
+html, body {
+  height: 100%;
+}
+
+/* Helpers */
+.forced-gapless {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.align-start {
+  align-items: flex-start !important;
+}
+
+/* Classes */
+.icon-text {
+  line-height: 1;
+}
+
+.habilidad {
+  line-height: 2 !important;
+  margin-bottom: 0 !important;
+}
+
+.footer {
+  padding: 40px 20px;
+}
+
+/* IDS */
+#name {
+  margin-top: 30px;
+}
+
+#lista a {
+  padding-left: 0;
+}
+
+#habilidades {
+  padding: 0 10px;
+}
