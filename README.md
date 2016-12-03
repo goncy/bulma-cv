@@ -2,7 +2,8 @@
 
 ## Instrucciones
 * Para descargar desde la web, clickear el boton de `Clone or download > Download ZIP`
-* para ver la version online: http://codepen.io/goncy/pen/woydXz
+* Para ver la version online (no editable): https://goncy.github.io/bulma-cv/
+* para ver la version online (editable): http://codepen.io/goncy/pen/woydXz
 * Para descargar desde el repositorio, en consola ingresar:
 ```
 git clone https://github.com/goncy/bulma-cv.git
